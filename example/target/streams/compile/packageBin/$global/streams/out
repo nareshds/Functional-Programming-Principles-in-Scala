@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\ndharmas\Documents\FP_principles\example\target\scala-2.11\progfun1-example_2.11-0.1-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	common\package.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ndharmas\Documents\FP_principles\example\target\scala-2.11\classes\common\package.class[0m
+[0m[[0mdebug[0m] [0m	common[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ndharmas\Documents\FP_principles\example\target\scala-2.11\classes\common[0m
+[0m[[0mdebug[0m] [0m	common\package$$anonfun$subFile$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ndharmas\Documents\FP_principles\example\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class[0m
+[0m[[0mdebug[0m] [0m	example\Lists$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ndharmas\Documents\FP_principles\example\target\scala-2.11\classes\example\Lists$.class[0m
+[0m[[0mdebug[0m] [0m	common\package$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ndharmas\Documents\FP_principles\example\target\scala-2.11\classes\common\package$.class[0m
+[0m[[0mdebug[0m] [0m	example\Lists.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ndharmas\Documents\FP_principles\example\target\scala-2.11\classes\example\Lists.class[0m
+[0m[[0mdebug[0m] [0m	example[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ndharmas\Documents\FP_principles\example\target\scala-2.11\classes\example[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

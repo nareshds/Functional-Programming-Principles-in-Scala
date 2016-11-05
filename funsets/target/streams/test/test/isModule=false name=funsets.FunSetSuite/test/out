@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersection test[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter returns the subset of one set for which a parameter function holds[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall function[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists function[0m[0m
+[0m[[0minfo[0m] [0m[32m- map function[0m[0m
